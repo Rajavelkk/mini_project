@@ -15,3 +15,6 @@ print(a+b)
 
 a='Rajavel'
 print(a[::-1])
+
+
+b=123434
