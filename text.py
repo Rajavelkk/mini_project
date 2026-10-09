@@ -6,3 +6,8 @@ for i in a:
     else:
         freq[i]=1
 print(freq)            
+
+
+a=1
+b=2
+print(a+b)
