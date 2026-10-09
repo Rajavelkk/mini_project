@@ -11,3 +11,7 @@ print(freq)
 a=1
 b=2
 print(a+b)
+
+
+a='Rajavel'
+print(a[::-1])
